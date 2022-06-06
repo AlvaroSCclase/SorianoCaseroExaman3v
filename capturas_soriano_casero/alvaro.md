@@ -6,3 +6,5 @@
 #se creo un nuevo fichero llamado trabajo_alvaro y se le añadio dos lineas, este se añadio al area de intercambio#
 #se realizo un commit para que se incluyera la creacion y la modificacion del fichero trabajo_alvaro.md#
 #se añadio dos lineas mas al fichero trabajo_alvaro.md#
+#se crea una instantanea  del fichero trabajo_alvaro.md ahora que posee dos lineas mas#
+#mediante el id del commit obtenido del git log se pudo restaurar el fichero trabajo_alvaro.md al momento que solo poseia dos lineas con el comando git -restore #
