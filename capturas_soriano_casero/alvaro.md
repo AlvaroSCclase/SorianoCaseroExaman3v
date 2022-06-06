@@ -10,3 +10,4 @@
 #mediante el id del commit obtenido del git log se pudo restaurar el fichero trabajo_alvaro.md al momento que solo poseia dos lineas con el comando git -restore #
 #tras añadir dos lineas al fichero trabajo_alvaro.md  y hacer el commit podemos ver que este cambia ya que ahora este a cambiado a una version nueva en el nuevo commit#
 #se cambio el comentario del commit anterior para indicar que este a cambiado#
+#fusionaremos la rama master con la rama_soriano cambiando primero con checkout al master y haciendo un merge#
