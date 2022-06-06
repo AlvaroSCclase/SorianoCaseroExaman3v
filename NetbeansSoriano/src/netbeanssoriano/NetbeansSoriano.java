@@ -14,10 +14,12 @@ public class NetbeansSoriano {
      * @param args the command line arguments
      */
     
-    
+    public static void imprime_nombre(){
+        System.out.println("Alvaro");
+    }
     
     public static void main(String[] args) {
-        // TODO code application logic here
+        imprime_nombre();
     }
     
 }
