@@ -14,3 +14,5 @@
 #se creo la rama_casero con el checkout , se añadio una linea a trabajo_alvaro.md  y se hizo un commit#
 #en el git log podemos ver los distintos cambios de las ramas y como se fue modificando el fichero trabajo_alvaro.md (posdata me equivoque y creee la rama main luego la borre)#
 #creamos un proyecto de netbeans en el repositorio , creamos la rama netbeansSoriano  y crearemos el metodo que imprimira nuestro nombre#
+#se creo un metodo en la rama master que imprimra la fecha #
+#se fusiono las dos ramas dejando el metodo de la rama netbeansSoriano como predominante para resolver el conflicto#
