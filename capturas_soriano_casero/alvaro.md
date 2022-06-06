@@ -8,3 +8,4 @@
 #se añadio dos lineas mas al fichero trabajo_alvaro.md#
 #se crea una instantanea  del fichero trabajo_alvaro.md ahora que posee dos lineas mas#
 #mediante el id del commit obtenido del git log se pudo restaurar el fichero trabajo_alvaro.md al momento que solo poseia dos lineas con el comando git -restore #
+#tras añadir dos lineas al fichero trabajo_alvaro.md  y hacer el commit podemos ver que este cambia ya que ahora este a cambiado a una version nueva en el nuevo commit#
