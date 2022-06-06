@@ -16,3 +16,8 @@
 #creamos un proyecto de netbeans en el repositorio , creamos la rama netbeansSoriano  y crearemos el metodo que imprimira nuestro nombre#
 #se creo un metodo en la rama master que imprimra la fecha #
 #se fusiono las dos ramas dejando el metodo de la rama netbeansSoriano como predominante para resolver el conflicto#
+#se eliminio la rama NetbeansSoriano#
+#se edito el git ignore para que este tome en cuenta el fichero alvaro.md y la carpeta de capturas#
+#se hizo un commit de lo anterior#
+#en estos momentos tengo una version en la cual existe un proyecto de netbeans a mi nombre con las capturas de los ejercicios anteriores y los cambios que estos hicieron el repositorio#
+#añadiremos la direccion remota de mi repositorio de git y haremos un push#
