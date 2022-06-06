@@ -14,7 +14,9 @@ public class NetbeansSoriano {
      * @param args the command line arguments
      */
     
-    
+    public static void imprimir_fecha_examen(){
+        System.out.println("la fecha del examen es 06/06/2022");
+    }
     
     public static void main(String[] args) {
         // TODO code application logic here
