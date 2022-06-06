@@ -3,3 +3,4 @@
 #crearemos el fichero gitignore y introduciremos la ruta del fichero alvaro.md para que no lo incluya al hacer un git add . #
 #añadiremos al fichero gitignore la ruta de la carpeta de las capturas para que esta no sea incluida en git add .#
 #se realizo una instantanea de lo realizado hasta ahora en el repositorio #
+#se creo un nuevo fichero llamado trabajo_alvaro y se le añadio dos lineas, este se añadio al area de intercambio#
