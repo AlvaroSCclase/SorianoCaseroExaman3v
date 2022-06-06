@@ -11,3 +11,5 @@
 #tras añadir dos lineas al fichero trabajo_alvaro.md  y hacer el commit podemos ver que este cambia ya que ahora este a cambiado a una version nueva en el nuevo commit#
 #se cambio el comentario del commit anterior para indicar que este a cambiado#
 #fusionaremos la rama master con la rama_soriano cambiando primero con checkout al master y haciendo un merge#
+#se creo la rama_casero con el checkout , se añadio una linea a trabajo_alvaro.md  y se hizo un commit#
+#en el git log podemos ver los distintos cambios de las ramas y como se fue modificando el fichero trabajo_alvaro.md (posdata me equivoque y creee la rama main luego la borre)#
